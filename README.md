@@ -1,0 +1,7 @@
+# WC-Generator
+Generates short character profiles based on conventions from the Warrior Cats series by Erin Hunter.
+
+Running:
+>python WCgenerator.py
+
+The generator will ask how many characters to generate and how many personality traits each character should have. 
