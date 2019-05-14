@@ -1,7 +1,7 @@
 is blind
 is deaf
 is missing a limb
-has lots of scars
+has many scars
 is mute
 has partial paralysis
 has unusual eyes
@@ -12,5 +12,7 @@ has a phobia
 is missing an eye
 is missing an ear
 has frequent dreams from starclan
-has adopted kits
 is sickly
+has asthma
+has anxiety
+has depression

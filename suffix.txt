@@ -11,6 +11,7 @@ face
 fang
 fall
 feather
+fire
 flight
 flower
 foot
@@ -26,6 +27,9 @@ light
 nose
 patch
 pelt
+pounce
+runner
+shade
 sight
 song
 splash
@@ -38,5 +42,7 @@ tail
 thorn
 throat
 tooth
+tuft
+watcher
 wing
 whisker
